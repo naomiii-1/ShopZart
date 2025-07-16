@@ -4,7 +4,7 @@
 
 ## Live Site
 https://www.shopzart.com/
-![Home Page](https://i.imgur.com/uL7kYdV.png)
+[![Home Page](https://imgur.com/a/t7uViKk)]
 
 
 ## New way to sell your art online!
