@@ -1,3 +1,22 @@
-# ShopZart
-This is the official Github Page for zart and our fans!
-www.shopzart.com
+## Welcome To ShopZart
+**ZART** is an e-commerce platform, serve a purpose of gathering around talented artists around the world and showcase their unique art works.
+
+
+## Live Site
+https://www.shopzart.com/
+![Home Page](https://i.imgur.com/uL7kYdV.png)
+
+
+## New way to sell your art online!
+**Turn your passion into thriving Business**
+**Connecting your creativity with the right customers**
+**Empowering artisans to build successful business**
+
+
+## Technologies Used
+
+
+## Documentations
+
+
+## Features
